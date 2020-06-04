@@ -1,0 +1,94 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: flex-end;
+  padding: 0 70px;
+  margin-top: 30px;
+
+}
+
+.apply {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 200px;
+  height: 250px;
+  border-radius: 10px;
+  box-shadow: 1px 1px 3px;
+  text-align: center;
+}
+
+.apply img {
+  width: 100px;
+  height: 100px;
+}
+
+.apply h2 {
+  align-items: center;
+  justify-content: center;
+  text-decoration: underline;
+
+}
+
+.apply p {
+  align-items: center;
+  justify-content: center;
+}
+
+.learn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 200px;
+  height: 250px;
+  border-radius: 10px;
+  box-shadow: 1px 1px 3px;
+  text-align: center;
+}
+
+.learn img {
+  width: 100px;
+  height: 100px;
+}
+
+.learn h2 {
+  align-items: center;
+  justify-content: center;
+  text-decoration: underline;
+}
+
+.learn p {
+ align-items: center;
+ justify-content: center;
+}
+
+.build {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 200px;
+  height: 250px;
+  border-radius: 10px;
+  box-shadow: 1px 1px 3px;
+  text-align: center;
+}
+
+.build img {
+  width: 100px;
+  height: 100px;
+}
+
+.build h2 {
+  align-items: center;
+  justify-content: center;
+  text-decoration: underline;
+}
+
+.build p {
+  align-items: center;
+ justify-content: center;
+}
